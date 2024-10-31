@@ -23,8 +23,11 @@ I’m Aqwam Hizbal Muhshiy, a dedicated **Full-Stack Web Developer** with a pass
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+<br />
+<br />
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqwamhm&layout=compact&langs_count=6&theme=merko"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aqwamhm&theme=blue-green&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqwamhm&theme=blue-green&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
 ---
